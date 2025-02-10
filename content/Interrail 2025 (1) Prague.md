@@ -28,3 +28,34 @@ The train with a direct connection between the Munich and Prague main stations a
 ![[Interrail-1-Train.jpg|Interrail-1-Train.jpg]]
 
 In case you have a strong preference for being seated in the direction of travel the train switches direction in Regensburg, around 1:30h in.
+
+## A visit from the police
+
+Around 10:50 AM four border control and police officers came through checking IDs and sampling selected suitcases looking for knives, drugs, and goods needing declaration. They didn't end up checking me but two Czech passengers I briefly sat with in the beginning until a window spot opened up and I moved.
+
+# Planning the itinerary
+
+I used the time on the train to procrastinate on some work that still needed catching up and instead researched some activities for my time in the city. I liked the idea of taking a walking tour early on to get an overview over some of the most popular sight and then have the opportunity to re-visit places that I felt I didn't get enough time with. I found some free walking tours by [100 spires](https://www.tours-prague.eu/tour-oldtown-free.phtml) and reserved a spot for 3 PM today, hoping I'll make it there in time.
+
+The tour takes about three hours with the following sights visited:
+- Municipal House
+- Powder Gate
+- House at the Black Madonna
+- Charles University (Carolinum)
+- The Estates Theatre
+- Old Town Square
+- The Church of Our Lady before Tyn
+- Jan Hus Monument
+- Astronomical Clock
+- Franz Kafka Statue
+- Spanish Synagogue
+- Paris Street
+- The Old-New Synagogue
+- The Jewish Town Hall
+- The Old Jewish Cemetery
+- The Ceremonial Hall
+- Charles Bridge
+- The John Lennon Wall
+
+The walking tour supposedly includes some of the history and fun facts about the places, some basics of the Czech language and recommendations of what else to do in the city. Notably, it does not involve any "actual" visits of the places that charge admission fees, it being a free tour and all. This means for example, we will see the historic Jewish cemetery but won't go in. Definitely a place to come back to on one of the following two days.
+
