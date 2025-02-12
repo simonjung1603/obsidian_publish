@@ -18,3 +18,5 @@ The rough agenda (although nothing is set in stone yet) is as follows:
 - Vienna
 
 I'll add links to the corresponding notes once I arrive at the destination.
+
+Happy exploring!
