@@ -8,7 +8,7 @@ locations: ""
 ---
 # The train station
 
-![[IMG_20250210_143959.jpg|640]]
+![[IMG_20250210_143959.jpg|IMG_20250210_143959.jpg]]
 
 Arrival in Prague was smooth, if about 20 minutes late. Orientation was fairly easy and I was on my way to the AirBnB in the north-east of the Prague 1 district.
 
@@ -38,6 +38,7 @@ Of course now that I had some time, why not start really relaxed with a nice hot
 So I scouted the available café options (of which there are many) and picked "Minimum Waste" (for no particular reason other than being well rated and close by).
 
 ![[IMG_20250210_160134.jpg|640]]
+
 It's a great place, offering edible cups for your coffees to go. It's a chill vibe with lots of students working on their laptops and the barista was very friendly. You can scan a QR code which lets you order and pay online (which I opted for as I hadn't yet have the time to brush up on some Czech terms) but they do offer some additional foods and drinks you can't find on the online menu. I had a cappuccino and one of the spiciest bagels I every had. Delicious.
 
 ## Next up: Sightseeing
@@ -46,11 +47,11 @@ Looking at the map I decided to slowly head to the dancing house, as that would 
 
 And what can I say. Everything is gorgeous here. I passed the old town square 
 
-![[IMG_20250210_163406.jpg|640]]
+![[IMG_20250210_163406.jpg|IMG_20250210_163406.jpg]]
 
 followed by the astronomical clock and powder tower (the ceremonial entrance to the old town).
 
-![[IMG_20250210_162533.jpg|0x520]]  ![[IMG_20250210_163519.jpg|0x520]]
+![[IMG_20250210_162533.jpg|320x560]]  ![[IMG_20250210_163519.jpg|320x560]]
 
 The beauty continues every way you look. It really is difficult to find a single boring building. I think the pictures speak for themselves.
 
@@ -63,13 +64,3 @@ Finally, accompanied by the sunset, I walked along the _Vltava River_ (river Mol
 ![[IMG_20250210_172159.jpg|IMG_20250210_172159.jpg]]
 
 As it was getting dark and I progressively more tired I did not cross the bridge all the way, leaving it for [[2025-02-11 The free walking tour|the next day]], and instead turned back towards my accommodation to get some well deserved rest.
-
-
-
-
-
-
-
-
-
-
