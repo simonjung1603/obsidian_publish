@@ -1,5 +1,5 @@
 ---
-up: "[[Interrail 2025 (1) Prague]]"
+up: "[[2025-02-10 - 13 Prague]]"
 publish: "true"
 tags:
   - interrail
