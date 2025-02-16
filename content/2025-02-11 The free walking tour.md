@@ -15,9 +15,10 @@ Kamil welcomes everyone and teaches us our first Czech term: Ano ⬌ Yes.
 We all repeat after him.
 
 > [!cite] Kamil continues
-> *Ano colloquially is often shortened to no, so if the waiter asks you whether you want another beer and you go: No, no, no, no! You'd be ordering another.*
+> *Ano colloquially is often shortened to no, so if the waiter asks you whether you want another beer and you go:*
+> *No, no, no, no! You'd be ordering another.*
 
-He teaches us to use Ne instead, if we wanna say no but to definitely enjoy the beer as well.
+He teaches us to use **Ne** instead, if we wanna say no but to definitely enjoy the beer as well.
 
 ## The entrance to the old town
 
